@@ -1,3 +1,7 @@
+html {
+	scroll-behavior: smooth;
+}
+
 .Menu-item,.Menu-link,.SvgIcon,body {
 	position: relative;
 }
